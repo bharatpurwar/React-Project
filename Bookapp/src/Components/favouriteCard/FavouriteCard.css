@@ -1,0 +1,25 @@
+@media only screen and (min-width: 1200px) {
+    .favouritecard {
+      width: 250px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 1199px){
+    .favouritecard {
+      width: 230px;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .favouritecard {  
+      width: 300px;
+      text-align: center;
+    }
+    .shift{
+        width: 300px;
+    }
+    .shiftinsmallscreen{
+        margin-left: 70px;
+    }
+  }
+

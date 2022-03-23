@@ -1,0 +1,342 @@
+{
+  "recommend": [
+    {
+      "email": "peter@gmail.com",
+      "authors": [
+        {
+          "key": "/authors/OL19767A",
+          "name": "Aldous Huxley"
+        }
+      ],
+      "checked_out": false,
+      "cover_edition_key": "OL6504102M",
+      "cover_id": 8231823,
+      "edition_count": 386,
+      "first_publish_year": null,
+      "has_fulltext": true,
+      "props.ia": "bravenewworld0000huxl",
+      "key": "8231823peter@gmail.com",
+      "lending_edition": "OL6504102M",
+      "lending_identifier": "bravenewworld00huxl",
+      "lendinglibrary": false,
+      "printdisabled": true,
+      "public_scan": false,
+      "title": "Brave New World",
+      "id": 1
+    },
+    {
+      "email": "peter@gmail.com",
+      "authors": [
+        {
+          "key": "/authors/OL118077A",
+          "name": "George Orwell"
+        }
+      ],
+      "checked_out": false,
+      "cover_edition_key": "OL21733390M",
+      "cover_id": 9267242,
+      "edition_count": 250,
+      "first_publish_year": null,
+      "has_fulltext": true,
+      "props.ia": "NineteenEightyFour-Novel-GeorgeOrwell",
+      "key": "9267242peter@gmail.com",
+      "lending_edition": "OL28052718M",
+      "lending_identifier": "yijiubasi0000orwe",
+      "lendinglibrary": false,
+      "printdisabled": true,
+      "public_scan": true,
+      "title": "Nineteen Eighty-Four",
+      "id": 2
+    },
+    {
+      "email": "peter@gmail.com",
+      "authors": [
+        {
+          "key": "/authors/OL113611A",
+          "name": "Jules Verne"
+        }
+      ],
+      "checked_out": false,
+      "cover_edition_key": "OL24245739M",
+      "cover_id": 6573517,
+      "edition_count": 189,
+      "first_publish_year": null,
+      "has_fulltext": true,
+      "props.ia": "rayzeoyfngrundya00vernuoft",
+      "key": "6573517peter@gmail.com",
+      "lending_edition": "OL6682530M",
+      "lending_identifier": "twentythousandle0000vern_l0i3",
+      "lendinglibrary": false,
+      "printdisabled": true,
+      "public_scan": true,
+      "title": "Vingt mille lieues sous les mers",
+      "id": 3
+    },
+    {
+      "email": "dubeyniharika95@gmail.com",
+      "authors": [
+        {
+          "key": "/authors/OL118077A",
+          "name": "George Orwell"
+        }
+      ],
+      "checked_out": false,
+      "cover_edition_key": "OL21733390M",
+      "cover_id": 9267242,
+      "edition_count": 250,
+      "first_publish_year": null,
+      "has_fulltext": true,
+      "props.ia": "NineteenEightyFour-Novel-GeorgeOrwell",
+      "key": "9267242dubeyniharika95@gmail.com",
+      "lending_edition": "OL28052718M",
+      "lending_identifier": "yijiubasi0000orwe",
+      "lendinglibrary": false,
+      "printdisabled": true,
+      "public_scan": true,
+      "title": "Nineteen Eighty-Four",
+      "id": 4
+    },
+    {
+      "email": "john@gmail.com",
+      "authors": [
+        {
+          "key": "/authors/OL118077A",
+          "name": "George Orwell"
+        }
+      ],
+      "checked_out": false,
+      "cover_edition_key": "OL21733390M",
+      "cover_id": 9267242,
+      "edition_count": 250,
+      "first_publish_year": null,
+      "has_fulltext": true,
+      "props.ia": "NineteenEightyFour-Novel-GeorgeOrwell",
+      "key": "9267242john@gmail.com",
+      "lending_edition": "OL28052718M",
+      "lending_identifier": "yijiubasi0000orwe",
+      "lendinglibrary": false,
+      "printdisabled": true,
+      "public_scan": true,
+      "title": "Nineteen Eighty-Four",
+      "id": 5
+    }
+  ],
+  "favourites": [
+    {
+      "email": "peter@gmail.com",
+      "authors": [
+        {
+          "key": "/authors/OL19767A",
+          "name": "Aldous Huxley"
+        }
+      ],
+      "checked_out": false,
+      "cover_edition_key": "OL6504102M",
+      "cover_id": 8231823,
+      "edition_count": 386,
+      "first_publish_year": null,
+      "has_fulltext": true,
+      "props.ia": "bravenewworld0000huxl",
+      "key": "8231823peter@gmail.com",
+      "lending_edition": "OL6504102M",
+      "lending_identifier": "bravenewworld00huxl",
+      "lendinglibrary": false,
+      "printdisabled": true,
+      "public_scan": false,
+      "title": "Brave New World",
+      "id": 1
+    },
+    {
+      "email": "peter@gmail.com",
+      "authors": [
+        {
+          "key": "/authors/OL118077A",
+          "name": "George Orwell"
+        }
+      ],
+      "checked_out": false,
+      "cover_edition_key": "OL21733390M",
+      "cover_id": 9267242,
+      "edition_count": 250,
+      "first_publish_year": null,
+      "has_fulltext": true,
+      "props.ia": "NineteenEightyFour-Novel-GeorgeOrwell",
+      "key": "9267242peter@gmail.com",
+      "lending_edition": "OL28052718M",
+      "lending_identifier": "yijiubasi0000orwe",
+      "lendinglibrary": false,
+      "printdisabled": true,
+      "public_scan": true,
+      "title": "Nineteen Eighty-Four",
+      "id": 2
+    },
+    {
+      "email": "peter@gmail.com",
+      "authors": [
+        {
+          "key": "/authors/OL113611A",
+          "name": "Jules Verne"
+        }
+      ],
+      "checked_out": false,
+      "cover_edition_key": "OL24245739M",
+      "cover_id": 6573517,
+      "edition_count": 189,
+      "first_publish_year": null,
+      "has_fulltext": true,
+      "props.ia": "rayzeoyfngrundya00vernuoft",
+      "key": "6573517peter@gmail.com",
+      "lending_edition": "OL6682530M",
+      "lending_identifier": "twentythousandle0000vern_l0i3",
+      "lendinglibrary": false,
+      "printdisabled": true,
+      "public_scan": true,
+      "title": "Vingt mille lieues sous les mers",
+      "id": 3
+    },
+    {
+      "email": "dubeyniharika95@gmail.com",
+      "authors": [
+        {
+          "key": "/authors/OL118077A",
+          "name": "George Orwell"
+        }
+      ],
+      "checked_out": false,
+      "cover_edition_key": "OL21733390M",
+      "cover_id": 9267242,
+      "edition_count": 250,
+      "first_publish_year": null,
+      "has_fulltext": true,
+      "props.ia": "NineteenEightyFour-Novel-GeorgeOrwell",
+      "key": "9267242dubeyniharika95@gmail.com",
+      "lending_edition": "OL28052718M",
+      "lending_identifier": "yijiubasi0000orwe",
+      "lendinglibrary": false,
+      "printdisabled": true,
+      "public_scan": true,
+      "title": "Nineteen Eighty-Four",
+      "id": 4
+    },
+    {
+      "email": "dubeyniharika95s@gmail.com",
+      "authors": [
+        {
+          "key": "/authors/OL19767A",
+          "name": "Aldous Huxley"
+        }
+      ],
+      "checked_out": false,
+      "cover_edition_key": "OL6504102M",
+      "cover_id": 8231823,
+      "edition_count": 386,
+      "first_publish_year": null,
+      "has_fulltext": true,
+      "props.ia": "bravenewworld0000huxl",
+      "key": "8231823dubeyniharika95s@gmail.com",
+      "lending_edition": "OL6504102M",
+      "lending_identifier": "bravenewworld00huxl",
+      "lendinglibrary": false,
+      "printdisabled": true,
+      "public_scan": false,
+      "title": "Brave New World",
+      "id": 5
+    },
+    {
+      "email": "dubeyniharika95s@gmail.com",
+      "authors": [
+        {
+          "key": "/authors/OL118077A",
+          "name": "George Orwell"
+        }
+      ],
+      "checked_out": false,
+      "cover_edition_key": "OL21733390M",
+      "cover_id": 9267242,
+      "edition_count": 250,
+      "first_publish_year": null,
+      "has_fulltext": true,
+      "props.ia": "NineteenEightyFour-Novel-GeorgeOrwell",
+      "key": "9267242dubeyniharika95s@gmail.com",
+      "lending_edition": "OL28052718M",
+      "lending_identifier": "yijiubasi0000orwe",
+      "lendinglibrary": false,
+      "printdisabled": true,
+      "public_scan": true,
+      "title": "Nineteen Eighty-Four",
+      "id": 6
+    },
+    {
+      "email": "dubeyniharika95s@gmail.com",
+      "authors": [
+        {
+          "key": "/authors/OL24137A",
+          "name": "Ray Bradbury"
+        }
+      ],
+      "checked_out": false,
+      "cover_edition_key": "OL25563493M",
+      "cover_id": 8149578,
+      "edition_count": 154,
+      "first_publish_year": null,
+      "has_fulltext": true,
+      "props.ia": "fahrenheit451brad",
+      "key": "8149578dubeyniharika95s@gmail.com",
+      "lending_edition": "OL31448957M",
+      "lending_identifier": "fahrenheit4510000brad",
+      "lendinglibrary": false,
+      "printdisabled": true,
+      "public_scan": false,
+      "title": "Fahrenheit 451",
+      "id": 7
+    },
+    {
+      "email": "john@gmail.com",
+      "authors": [
+        {
+          "key": "/authors/OL118077A",
+          "name": "George Orwell"
+        }
+      ],
+      "checked_out": false,
+      "cover_edition_key": "OL21733390M",
+      "cover_id": 9267242,
+      "edition_count": 250,
+      "first_publish_year": null,
+      "has_fulltext": true,
+      "props.ia": "NineteenEightyFour-Novel-GeorgeOrwell",
+      "key": "9267242john@gmail.com",
+      "lending_edition": "OL28052718M",
+      "lending_identifier": "yijiubasi0000orwe",
+      "lendinglibrary": false,
+      "printdisabled": true,
+      "public_scan": true,
+      "title": "Nineteen Eighty-Four",
+      "id": 8
+    },
+    {
+      "email": "john@gmail.com",
+      "authors": [
+        {
+          "key": "/authors/OL113611A",
+          "name": "Jules Verne"
+        }
+      ],
+      "checked_out": false,
+      "cover_edition_key": "OL24245739M",
+      "cover_id": 6573517,
+      "edition_count": 189,
+      "first_publish_year": null,
+      "has_fulltext": true,
+      "props.ia": "rayzeoyfngrundya00vernuoft",
+      "key": "6573517john@gmail.com",
+      "lending_edition": "OL6682530M",
+      "lending_identifier": "twentythousandle0000vern_l0i3",
+      "lendinglibrary": false,
+      "printdisabled": true,
+      "public_scan": true,
+      "title": "Vingt mille lieues sous les mers",
+      "id": 9
+    }
+  ]
+}

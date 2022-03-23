@@ -1,0 +1,61 @@
+@media only screen and (min-width: 1200px) {
+    .authorcard {
+      width: 250px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 1199px){
+    .authorcard {
+      width: 230px;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .authorcard {  
+      width: 300px;
+      text-align: center;
+    }
+    .shift{
+        width: 300px;
+    }
+    .shiftinsmallscreen{
+        margin-left: 70px;
+    }
+  }
+
+@media only screen and (min-width: 1200px) {
+    .bookcard {
+      width: 260px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+    .bookcard {
+      width: 240px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 992px){
+  .bookcard {
+    width: 240px;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+    .bookcard {  
+      width: 300px;
+      text-align: center;
+    }
+    
+    .shift{
+        width: 300px;
+    }
+    .shiftinsmallscreen{
+        margin-left: 70px;
+    }
+    .bg-body{
+      background-color: #f3edd7!important;
+    }
+    
+}
+
