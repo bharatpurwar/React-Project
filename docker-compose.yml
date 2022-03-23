@@ -1,0 +1,13 @@
+version: '3.5'
+
+services: 
+    authapi:
+        image: authserver
+        ports: 
+            - "9000:9000"
+    frontend:
+        image: bookapp
+        ports: 
+            - "3000:80"
+        depends_on: 
+            - authapi
